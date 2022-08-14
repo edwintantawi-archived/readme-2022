@@ -1,10 +1,12 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=edwintantawi.edwintantawi" align="right"/>
 
 <h1 align="center">Edwin Tantawi</h1>
-<p align="center">Student & Software Engineer From Indonesia</p>
+<p align="center"><strong>" Student & Software Engineer From Indonesia "</strong></p>
+<p align="center">Love in building and learning with modern technology</p>
 
 ---
 
+<h2 align="center">Skills and Technology</h2>
 <div align="center">
   <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch%20Linux-0088cc?style=for-the-badge&logo=Arch%20Linux&logoColor=white"/>
   <img alt="Visual studio Code" src="https://img.shields.io/badge/-VS%20Code-0066b8?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -23,7 +25,7 @@
 
 ---
 
-<h2 align="center">Skills and Tools</h2>
+<h2 align="center">Statistics</h2>
 <div style="display: flex; flex-wrap: wrap;" align="center">
   <img style="height: 165px;" alt="Edwin Tantawi GitHub stats" src="https://github-readme-stats.vercel.app/api?username=edwintantawi&theme=react&show_icons=true"/>
 
