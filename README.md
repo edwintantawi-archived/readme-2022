@@ -1,7 +1,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=edwintantawi.edwintantawi" align="right"/>
 
 <h1 align="center">Edwin Tantawi</h1>
-<p align="center"><strong>" Student & Software Engineer From Indonesia "</strong></p>
+<p align="center"><strong>" Student From Indonesia "</strong></p>
 <p align="center">Love in building and learning with modern technology</p>
 
 ---
