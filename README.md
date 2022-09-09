@@ -8,7 +8,7 @@
 
 <h2 align="center">Skills and Technology</h2>
 <div align="center">
-  <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch%20Linux-0088cc?style=for-the-badge&logo=Arch%20Linux&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-f6b11c?logo=Linux&logoColor=black&style=for-the-badge">
   <img alt="Visual studio Code" src="https://img.shields.io/badge/-VS%20Code-0066b8?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-0073ec?style=for-the-badge&logo=Docker&logoColor=white"/>
   <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=GitHub&logoColor=white"/>
